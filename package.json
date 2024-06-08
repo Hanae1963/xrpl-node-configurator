@@ -34,7 +34,7 @@
     "jszip": "^3.5.0",
     "ua-parser-js": "^0.7.21",
     "util": "^0.12.3",
-    "vue": "^2.6.11",
+    "vue": "^2.7.16",
     "vue-class-component": "^7.2.3",
     "vue-i18n": "^8.18.2",
     "vue-js-modal": "^2.0.0-rc.6",
