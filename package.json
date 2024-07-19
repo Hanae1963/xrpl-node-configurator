@@ -24,7 +24,7 @@
   "dependencies": {
     "@commitlint/cli": "^11.0.0",
     "@commitlint/config-conventional": "^11.0.0",
-    "@types/lodash": "^4.14.167",
+    "@types/lodash": "^4.17.4",
     "add": "^2.0.6",
     "axios": "^0.21.0",
     "date-fns": "^2.12.0",
