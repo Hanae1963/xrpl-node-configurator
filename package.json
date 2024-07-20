@@ -36,7 +36,7 @@
     "util": "^0.12.3",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
-    "vue-i18n": "^8.18.2",
+    "vue-i18n": "^8.28.2",
     "vue-js-modal": "^2.0.0-rc.6",
     "vue-json-pretty": "^1.6.7",
     "vue-localstorage": "^0.6.2",
